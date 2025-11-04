@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+  <tittle>About - My Website</tittle>
+  <link rel="stylesheet" href="style.css">
+</head>  
+<body> 
+ <header>
+  <nav class="navbar">
+  <ul>
+    <li><a herf="index.html">Home</a></li>
+    <li><a herf="index.html" class="active">About</a></li>
+    <li><a herf="index.html">Contact</a></li>
+  </ul>
+ </nav>
+</header>
+
+<main>
+ <section class="about">
+  <hl> Tentang Saya</hl>
+  <p> Ini adalah halaman about.</p>
+ </section>
+</main>
+
+<footer>
+  <p>&copy; 2025 My Website. All rights reserved.</p>
+ </footer>
+</body>
+</html>
